@@ -1,1 +1,1 @@
-This is a mini project in python 
+This is a mini project in python.
